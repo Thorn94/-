@@ -1,0 +1,142 @@
+body {
+    width: 100%;
+    background-color: white;
+    position: relative;
+}
+
+.header {
+    margin-bottom: 62px;
+    margin-top: 78px;
+    width: 100%;
+    text-align: center;
+}
+
+.log_txt {
+    color: white;
+    font-size: 25px;
+    width: 156px;
+    height: 156px;
+    line-height: 156px;
+    background-color: #10a78e;
+    border-radius: 80px;
+    text-align: center;
+    margin-left: 30%;
+    text-transform: uppercase;
+}
+
+.form {
+    width: 100%;
+    height: auto;
+}
+
+.form_content {
+    width: 88%;
+    margin: 0 6%;
+}
+
+.tel_txt {
+    width: 100%;
+    height: 42px;
+    color: black;
+    padding: 14px 0;
+    border: 0;
+    outline: none;
+    border-bottom: 1px solid rgb(235, 235, 235);
+    font-size: 14px;
+}
+.tel_txt2 {
+    width: 100%;
+    height: 42px;
+    color: black;
+    padding: 14px 0;
+    border: 0;
+    outline: none;
+    font-size: 14px;
+}
+.change {
+    width: 100%;
+    /* position: relative; */
+    display: inline-flex;
+    border-bottom: 1px solid rgb(235, 235, 235);
+}
+
+.img2 { 
+    /* position: absolute;
+    top: 30px;
+    width: 30px;
+    right: 0; */
+    /* height: auto; */
+    /* font-size: 16px; */
+    padding-top: 22px;
+}
+.eye{
+    width: 30px;
+    height: 30px;
+}
+
+.btn {
+    width: 100%;
+    height: 62px;
+    border-radius: 31px;
+    background-color: #10a78e;
+    text-align: center;
+    line-height: 62px;
+    color: white;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    margin-top: 52px;
+    margin-bottom: 16px;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 16px;
+}
+
+.link {
+    color: #10a78e;
+    font-size: 12px;
+}
+
+.account {
+    color: black;
+    font-size: 14px;
+    margin-top: 42px;
+}
+
+.login {
+    color: #10a78e;
+    padding-left: 5px;
+}
+
+/* .last {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.650980392156862);
+    position: absolute;
+    top: 0;
+}
+
+.run {
+    width: 100%;
+    margin-top: 312px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.p {
+    text-align: center;
+    line-height: 42px;
+    font-size: 16px;
+    margin-top: 52px;
+    width: 42px;
+    height: 42px;
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-left: 45%;
+} */

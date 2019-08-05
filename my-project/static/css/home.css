@@ -1,0 +1,170 @@
+
+.header {
+    width: 100%;
+    overflow: hidden;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 11111;
+}
+
+.search {
+    width: 92%;
+    margin: 5px auto;
+    /* padding: 5px 0; */
+    background-color: #f0f0f0;
+    overflow: hidden;
+    position: relative;
+}
+
+.search_img {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 8px;
+}
+
+.search_content {
+    width: 100%;
+    padding: 8px 8px;
+    font-size: 14px;
+    padding-left: 30px;
+}
+.occupy{
+    width: 100%;
+    margin-top: 48px;
+}
+.banner {
+    width: 100%;
+}
+
+.banner_img {
+    width: 100%;
+    height: 100px;
+}
+
+.lists {
+    width: 100%;
+    height: auto;
+}
+
+.lists_ul {
+    width: 100%;
+    padding: 15px 0;
+    overflow: hidden
+}
+
+.lists_li {
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+.nav_img {
+    width: 30px;
+    height: 30px;
+}
+
+.nav_p {
+    padding-top: 1px;
+    font-size: 14px;
+}
+
+.blank {
+    width: 100%;
+    height: 10px;
+    background: #f5f5f5;
+}
+
+.hot {
+    width: 92%;
+    margin: 5px auto;
+    overflow: hidden;
+    padding-bottom: 80px;
+}
+
+.hot_header {
+    font-weight: 600;
+    padding: 10px 0;
+    font-size: 16px;
+}
+
+.hot_content {
+    width: 100%;
+    overflow: hidden;
+    display: inline-flex;
+    padding: 10px 0;
+}
+
+.hot_img {
+    width: 45px;
+    height: 45px;
+}
+
+.hot_top {
+    width: 90%;
+    margin-left: 7px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #f5f5f5;
+}
+
+.hot_h1 {
+    font-weight: 550;
+    font-size: 14px;
+}
+
+.look_p {
+    color: red;
+    font-size: 16px;
+}
+
+.look_span {
+    color: darkgray;
+    font-size: 14px;
+}
+
+.look {
+    padding-top: 5px;
+    width: 100%;
+    position: relative;
+}
+
+.look_h3 {
+    position: absolute;
+    right: 0;
+    top: 5px;
+    color: #069bff;
+    font-size: 14px;
+    font-weight: 500;
+}
+.footer{
+    width: 100%;
+    overflow: hidden;
+    background: #fefefe;
+    border-top: 2px solid #f5f5f5;
+    border-bottom: 2px solid #f5f5f5;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin-top: 20px;
+}
+.footer_ul{
+    width: 100%;
+    overflow: hidden;
+    padding: 5px 0;
+}
+.footer_li{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.footer_img{
+    width: 30px;
+    height: 25px;
+}
+.footer_p{
+    font-size: 12px;
+    color: #818085;
+}
